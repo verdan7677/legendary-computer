@@ -1,1 +1,1 @@
-ECHO is on.
+print("How do you do")
